@@ -1,0 +1,131 @@
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        overflow: hidden;
+        background-color: #906f7a;
+    }
+    
+    li {
+        float: left;
+    }
+    body {
+        background-color: white;
+      }
+    li a {
+        display: block;
+        color: #2df30c;
+        text-align: center;
+        padding: 13px 16px;
+        text-decoration: none;
+    }
+    li {
+        border-right: 1px solid #bbb;
+      }
+
+    li a:hover {
+        background-color: #4a9bb5;
+    
+}
+p {
+  color: rgb(41, 41, 41);
+  height: 600px;
+  width: 600px;
+}
+p {
+  font-size: large;
+  position:absolute;
+  top: 6%;
+  
+}
+h3 {
+  text-decoration: underline;
+  margin-left: 10px;
+  margin-top: 60px;
+}
+
+.Paragraph {
+  height: 1200px;
+  width: 1800px;
+  background-image: url(images/worried_cat.jpg);
+}
+body {
+  margin: 0px;
+  height: 3600px;
+  width: 1800px;
+}
+nav {
+  background-color: #fff;
+  border: 1px solid #dedede;
+  border-radius: 4px;
+  color: #888;
+  display: block;
+  margin: 8px 22px 8px 22px;
+  overflow: hidden;
+  width: 100%; 
+  margin: 0;
+  padding: 0;
+  top: 0;
+  position: fixed;
+}
+.contact {
+  background-image: url(Images/hammy.jpg);
+  height: 1200px;
+  width: 1800px;
+}
+
+.num {
+  font-size: 2pc;
+  position: relative;
+  top:10px;
+  margin-left: 10px;
+}
+.stuff {
+  text-align: left;
+}
+.words {
+  margin-left: 30px;
+  margin-top: 60px;
+}
+.project {
+  background-image: url(Images/squirrel.jpg);
+  height: 1200px;
+  width: 1800px;
+  color: #fff;
+}
+.ind {
+  color:white;
+  margin-left: 10px;
+  
+}
+.individual{
+  margin-right: 80%;
+  position: relative;
+  bottom: 1100px;
+}
+.grou{
+  color:white;
+  margin-left: 10px;
+}
+.group{
+  margin-right: 83%;
+  position: relative;
+  bottom: 800px;
+}
+.futu{
+  color:white;
+  margin-left: 10px;
+}
+.future{
+  margin-right: 83%;
+  position: relative;
+  bottom: 480px;
+}
+.title {
+  text-align: center;
+}
+img{
+  position: absolute;
+  margin-left: 20px
+}
